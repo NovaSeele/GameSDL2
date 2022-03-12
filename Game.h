@@ -1,6 +1,8 @@
 #pragma once
+#define Game_h
 #include<SDL.h>
 #include<stdio.h>
+
 
 class Game
 {
